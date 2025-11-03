@@ -1,0 +1,1 @@
+Repository for DUMP interniship, git exercise.
